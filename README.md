@@ -1,7 +1,8 @@
 # SnakeQlearning
 Implementation of Q-learning with the game of snake.
 
-## Dependencies
+## Dependencies<br>
+Code is written in python 3.
 - Pygame
 ```
 pip3 install pygame
