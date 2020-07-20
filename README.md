@@ -2,7 +2,8 @@
 Implementation of Q-learning with the game of snake.
 
 ## Dependencies<br>
-Code is written in python 3. The only extra dependecies are:
+Code is written in python 3.<br>
+The only extra dependecies are:
 - Pygame
 ```
 pip3 install pygame
