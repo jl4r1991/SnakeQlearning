@@ -2,7 +2,7 @@
 Implementation of Q-learning with the game of snake.
 
 ## Write Up
-I have a detailed write up about the algorithm here:
+I have a detailed write up about the algorithm here:<br>
 https://towardsdatascience.com/teaching-a-computer-how-to-play-snake-with-q-learning-93d0a316ddc0
 
 ## Dependencies
