@@ -1,7 +1,11 @@
 # SnakeQlearning
 Implementation of Q-learning with the game of snake.
 
-## Dependencies<br>
+## Write Up
+I have a detailed write up about the algorithm here:
+https://towardsdatascience.com/teaching-a-computer-how-to-play-snake-with-q-learning-93d0a316ddc0
+
+## Dependencies
 Code is written in python 3.<br>
 The only extra dependecies are:
 - Pygame
